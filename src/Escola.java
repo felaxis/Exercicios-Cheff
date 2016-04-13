@@ -39,7 +39,7 @@ public class Escola {
 	public EnderecoDaEscola retornarEnderecoDaEscola(){
 		return this.endereco;
 	}
-	public QuantidadeDeAlunos retornarquantidadeDeAlunos(){
+	public int retornarquantidadeDeAlunos(){
 		return this.numeroDeAlunos;
 	}
 }
